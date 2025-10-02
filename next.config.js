@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export", // Required for static export
-  basePath: "/ML-Experimentation-Hub-Qlora", // Repo name here
+  output: 'export', // important for static export
   images: {
-    unoptimized: true, // GitHub Pages does not support next/image optimization
+    unoptimized: true, // GitHub Pages doesn't support Next.js image optimization
   },
+  basePath: '/ML-Experimentation-Hub-Qlora', // repo name
 };
 
 module.exports = nextConfig;
