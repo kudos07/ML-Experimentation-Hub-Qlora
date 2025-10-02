@@ -198,7 +198,7 @@ with   B ∈ ℝ^{d×r},  A ∈ ℝ^{r×k},  r ≪ min(d, k)`}
 {/* Full-width figure between text */}
 <div style={{ textAlign: "center", margin: "2rem 0" }}>
   <img
-    src="/images/qlora-image.png"
+    src="/ML-Experimentation-Hub-Qlora/images/qlora-image.png"
     alt="QLoRA: 4-bit base weights with LoRA adapters"
     style={{
       maxWidth: "100%",
@@ -505,7 +505,7 @@ Backward:
 
 <div style={{ textAlign: "center", margin: "2rem 0" }}>
   <img
-    src="/images/memory4bit.png"
+    src="/ML-Experimentation-Hub-Qlora/images/memory4bit.png"
     alt="QLoRA scaling memory usage"
     style={{
       maxWidth: "100%",
@@ -589,7 +589,7 @@ Backward:
 
 <div style={{ textAlign: "center", margin: "2rem 0" }}>
   <img
-    src="/images/benchmark.png"
+    src="/ML-Experimentation-Hub-Qlora/images/benchmark.png"
     alt="QLoRA benchmark results"
     style={{
       maxWidth: "100%",
