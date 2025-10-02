@@ -192,7 +192,7 @@ with   B ∈ ℝ^{d×r},  A ∈ ℝ^{r×k},  r ≪ min(d, k)`}
 
 <p style={{ fontSize: "1.1rem", marginBottom: "1rem" }}>
   Gradients flow only into <em>A</em> and <em>B</em>. The 4-bit weights <em>W_q</em> stay frozen.
-  This gives LoRA's parameter efficiency plus the huge memory savings from quantization.
+  This gives LoRA&apos;s parameter efficiency plus the huge memory savings from quantization.
 </p>
 
 {/* Full-width figure between text */}
