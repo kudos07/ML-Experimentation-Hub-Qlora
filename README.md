@@ -4,7 +4,6 @@ This repository is an educational **Next.js blog** that explains the paper:
 **QLoRA: Efficient Finetuning of Quantized LLMs (2023)** in a clear, beginner-friendly way.  
 It breaks the research down into text, light math, and figures to make it accessible.
 
-🌐 **Live demo:** [https://kudos07.github.io/ML-Experimentation-Hub-Qlora](https://kudos07.github.io/ML-Experimentation-Hub-Qlora)
 
 ---
 
@@ -34,12 +33,3 @@ The blog walks through QLoRA step by step:
 
 All figures shown are taken directly from the original paper (Dettmers et al., 2023).  
 
----
-
-## 🚀 Running Locally
-
-Clone this repository:
-
-```bash
-git clone https://github.com/kudos07/ML-Experimentation-Hub-Qlora.git
-cd ML-Experimentation-Hub-Qlora
